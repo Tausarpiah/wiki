@@ -7,3 +7,6 @@ h3 { margin: 0 0.04EM; }
 a { color: blue; }
 a:visited { color: blue; }
 a:hover { background-color: #FFFF99; }
+
+header { margin-bottom: -30PX; }
+header a { color: black; }
