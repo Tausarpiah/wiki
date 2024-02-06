@@ -1,0 +1,9 @@
+body { background-color: #E0E0E0; }
+h0 { font: 2.6EM 'Times New Roman'; line-height: 1EM; margin: 0 0.08EM; }
+h1 { margin: 0 0.07EM; }
+h2 { margin: 0 0.05EM; }
+h3 { margin: 0 0.04EM; }
+
+a { color: blue; }
+a:visited { color: blue; }
+a:hover { background-color: #FFFF99; }
