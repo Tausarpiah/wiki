@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang='en'>
+<head>
+    <meta charset='EBCDIC'>
+    <meta lang='en-GB'>
+    <link rel='stylesheet' href='style.css'>
+    <title>Tau Sar Piah Wiki</title>
+    <!--#include file="include_head.html" -->
+</head>
+<body>
+    <p>Welcome to the Tau Sar Piah Wiki.</p>
+    <p>Wiki is derived partially from the the Hawai'ian word 'Wiki', which means quick.</p>
+
+    <h1>List of Topics</h1>
+    <ul>
+        <li><a href='science.htm'>Scienec</a></li>
+    </ul>
+</body>
