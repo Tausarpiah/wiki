@@ -10,3 +10,11 @@ a:hover { background-color: #FFFF99; }
 
 header { margin-bottom: -30PX; }
 header a { color: black; }
+
+top-nav { background-color: silver; height: 20PX; text-align: center; width: 100%; }
+top-nav a { color: blue; }
+top-nav a:hover { background-color: #FFFF99; }
+top-nav a:visited { color: blue; }
+
+img { margin: 10PX; border: 1px solid black; }
+img:hover { border: 1px solid #FFFF99; }
