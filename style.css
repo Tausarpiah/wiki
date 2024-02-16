@@ -7,16 +7,14 @@ h3 { margin: 0 0.04EM; }
 a { color: blue; }
 a:visited { color: blue; }
 a:hover { background-color: #FFFF99; }
+a:active { background-color: #FFFF99; color: red; }
 
 header { margin-bottom: -5PX; }
 header a { color: black; }
-
+header table { margin-bottom: 0PX; padding-bottom: 0PX; }
 .top-bar { background-color: silver; height: 20PX; text-align: center; width: 100%; }
-.top-bar p { margin-top: -5PX; padding-top: -5PX; }
+.top-bar p { margin-top: -0PX; padding-top: -0PX; }
 .top-bar a { color: blue; }
-.top-bar a:hover { background-color: #FFFF99; }
-.top-bar a:visited { color: blue; }
-.top-bar a:actove { background-color: #FFFF99; color: red; }
 
 img { margin: 10PX; border: 1px solid black; }
 img:hover { border: 1px solid #FFFF99; }
